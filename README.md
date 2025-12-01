@@ -6,5 +6,5 @@ Muy buenas, soy Marco, analista de datos junior, aquí encontrarás todos los pr
 
 
 # Contacto
-LinkedIn: https://www.linkedin.com/in/marco-vinicio-ayala-sierra-84a1b431b/
-Email: vinicioayala1999@gmail.com
+- LinkedIn: https://www.linkedin.com/in/marco-vinicio-ayala-sierra-84a1b431b/
+- Email: vinicioayala1999@gmail.com
