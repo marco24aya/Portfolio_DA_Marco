@@ -11,7 +11,8 @@ El documento original (data raw) tiene varios datos nulos, pero con el código q
 - Estandarizar nombres de club a abreviaturas o viceversa
 
 La información para realizar el ejercicio se encuentra en el siguiente enlace:
-Parámetros - https://www.powerlifting.sport/fileadmin/ipf/data/ipf-formula/Models_Evaluation-I-2020_01.pdf 
+Parámetros: 
+- https://www.powerlifting.sport/fileadmin/ipf/data/ipf-formula/Models_Evaluation-I-2020_01.pdf 
 
 # Contacto
 - LinkedIn: https://www.linkedin.com/in/marco-vinicio-ayala-sierra-84a1b431b/
